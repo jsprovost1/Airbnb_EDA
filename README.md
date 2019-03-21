@@ -18,7 +18,7 @@ The goal of this project is to dive in a little more on that topic and answer th
 - Is There a Difference in the Type of Housing Offered by Regular versus Superhosts?
 
 ### Analysis
-To address our questions, we performed our analysis on the Seattle Airbnb Dataset provided by **_[Kaggle]('https://www.kaggle.com/airbnb/seattle')_**
+To address our questions, we performed our analysis on the Seattle Airbnb Dataset provided by **_[Kaggle](https://www.kaggle.com/airbnb/seattle)_**
 
 
 Our analysis revealed that superhosts charged more for a bed, although they have greater experience and they offer a greater proportion of houses as opposed to any other types of homes.
