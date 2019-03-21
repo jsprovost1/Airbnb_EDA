@@ -32,7 +32,7 @@ Our analysis revealed that superhosts charged more for a bed, although they have
 We can conclude that you will have a better chance of having a great experience if you stay with a superhost. However, it would be unwise not to consider regular hosts as most of them are trying to get their credentials up to the level of a superhost. 
 In the end, becoming a superhost is a work in progress, and because of the way the platform works, hosts should try their best to offer the best experience in order to stay in business. Consequently, it is definitely plausible that you could have a wonderful experience, and for a few bucks cheaper. Who wouldn't want that?
 
-This repository contains a README.md file as well as a jupyter notebook called Airbnb_Seattle.ipynb where you will find the code for each analysis.
+This repository contains a README.md file as well as a jupyter notebook called Airbnb_Seattle.ipynb where you will find the code for each analysis. Also, you will find the dataset used for the analysis.
 The exploratory data analysis was performed using Python 3.6.4 with the following librairies:
     
 - Numpy==1.14.2
